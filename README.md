@@ -1,2 +1,5 @@
 # Basic-Full-Stack-EMS
-Super basic full stack webpage with Spring Boot for backend , React for frontend  , MySQL for database (using docker compose).
+Extremely basic full stack webpage with the following stack 
+1. Spring Boot for Backend REST APIs
+2. React for Frontend (axios and router)
+3. MySQL for Database (using docker compose).
